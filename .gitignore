@@ -1,3 +1,8 @@
+# project specific
+*.kismet
+*.csv
+*.kml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
